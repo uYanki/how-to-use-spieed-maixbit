@@ -16,8 +16,6 @@ cuda：https://docs.singtown.com/micropython/zh/latest/openmvcam/index.html
 
 Mx-yolov3不能用GPU训练解决方法：https://blog.csdn.net/fanre/article/details/123979389?utm_source=app&app_version=5.3.1&code=app_1562916241&uLinkId=usr1mkqgl919blen
 
-
-
 ## 固件烧录
 
 ##### kflash_gui（烧录工具）：https://github.com/sipeed/kflash_gui/releases
@@ -48,7 +46,7 @@ Mx-yolov3不能用GPU训练解决方法：https://blog.csdn.net/fanre/article/de
 
 ## 代码上传
 
-![2.how to upload file](E:\how-to-use-kendryte-k210\3.MaixPy\5.Images\2.how to upload file.png)
+![2.how to upload file](5.Images\2.how to upload file.png)
 
 
 
